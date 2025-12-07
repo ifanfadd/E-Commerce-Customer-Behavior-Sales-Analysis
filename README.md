@@ -94,8 +94,6 @@ GROUP BY age_range;
 - The best-selling product category is **Electronics**, with total revenue of more than **2 million**.
 - Average daily revenue is highest on **Monday**, then slowly decreases as the week goes toward the weekend.
 
-### 3. Web & Behaviour
-
 ### 3. Website Behavior & Customer Interaction
 
 - The highest number of orders comes from customers who visit the website **10–19 times (sessions)**, with more than **2,000 orders**, followed by the **0–9 session** group and so on.
