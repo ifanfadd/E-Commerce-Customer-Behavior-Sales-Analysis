@@ -79,3 +79,37 @@ GROUP BY age_range;
 ---
 
 ## Data Analysis
+### 1. Customer & Demographic
+
+- Most customers come from **Istanbul**, followed by **Ankara** and **Izmir**, showing that large cities give the highest number of buyers.
+- Most of the customers are **female**.
+- **Female customers generate more revenue**, mainly because they receive **more discounts** than male customers.
+- The **30–39 age group** contributes the highest revenue, followed by **40–49**, **20–29**, and other age groups. This shows that adults in their working age are the main buyers.
+- Sales are mostly made by **returning customers**, showing that many people come back and buy again.
+
+### 2. Sales & Product Performance
+
+- The average revenue stays mostly stable, but there is a slight decrease toward the end of the year.
+- Total orders drop in **April** and then remain flat in the following months.
+- The best-selling product category is **Electronics**, with total revenue of more than **2 million**.
+- Average daily revenue is highest on **Monday**, then slowly decreases as the week goes toward the weekend.
+
+### 3. Web & Behaviour
+
+### 3. Website Behavior & Customer Interaction
+
+- The highest number of orders comes from customers who visit the website **10–19 times (sessions)**, with more than **2,000 orders**, followed by the **0–9 session** group and so on.
+- Orders are also highest when customers stay on the website for **5–9 minutes**, with more than **2,000 orders**, followed by the **10–14 minute** group.
+- **Credit Card** is the most commonly used payment method.
+- **Returning customers** tend to have a **shorter average session duration** compared to new customers, likely because they already know what they want to buy.
+- The overall sales performance has an average rating of **3.9 out of 5**.
+
+### 4. Delivery and Operation
+
+- The highest average rating comes from orders delivered within **3–7 days**, with an average rating of **3.92**.
+- **Beauty products** have the fastest average delivery time, while **Sports products** take the longest to deliver.
+- **Konya** has the fastest average delivery time among all cities, while **Istanbul** has the slowest.
+- Most orders are delivered within **3–7 days**, followed by **more than 7 days**, and the smallest portion is delivered in **less than 3 days**.
+
+---
+## Dashboard
