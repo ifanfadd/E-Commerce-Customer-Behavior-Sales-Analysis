@@ -111,3 +111,13 @@ GROUP BY age_range;
 
 ---
 ## Dashboard
+
+![Image](https://github.com/user-attachments/assets/7d3a8949-747b-44de-abd6-e514c9766f85)
+
+![Image](https://github.com/user-attachments/assets/13b7caf9-a1ba-476c-8297-dfcae2092b55)
+
+![Image](https://github.com/user-attachments/assets/058b1ece-80cb-4cd7-a52d-003a216daa21)
+
+![Image](https://github.com/user-attachments/assets/92b4582f-1848-438b-836b-68ef49db45d6)
+
+![Image](https://github.com/user-attachments/assets/2d007110-a8c2-40df-9734-46d3d5f0c20d)
